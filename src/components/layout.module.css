@@ -18,3 +18,23 @@
   .nav-link-text {
     color: black;
   }
+  /* header h3 {
+    font-style: italic;
+    color:cornflowerblue;
+  } */
+  footer {  
+    position: fixed;
+    left: 5%;
+    bottom: 0;
+    width: 90%;
+    text-align: center;
+    color: #abaadd;
+    border-top: 1px solid #abaadd;
+  }
+  .site-title {
+    font-style: italic;
+    font-size: 3rem;
+    color: gray;
+    font-weight: 700;
+    margin: 3rem 0;
+  }

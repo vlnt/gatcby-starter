@@ -15,6 +15,12 @@ module.exports = {
             }
           },
           "gatsby-plugin-mdx",
+          {
+          resolve: 'gatsby-plugin-manifest',
+          options: {
+            icon: 'src/images/gatsby-line.png',
+          }
+        }
     ],
            
 };
